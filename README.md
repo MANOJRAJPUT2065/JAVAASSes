@@ -426,7 +426,7 @@ tms-backend/
 
 ## 📧 Contact
 
-For questions or issues, please contact: careers@cargopro.ai
+For questions or issues, please contact : smanojsingh073@gmail.com
 
 ---
 
